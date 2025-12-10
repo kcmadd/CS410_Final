@@ -42,7 +42,7 @@ Place it here:
 ```
 data/processed/tweet_embeddings.npz
 ```
-
+![img.png](img.png)
 ## Project Structure
 ```
 project/
@@ -78,6 +78,9 @@ This will:
 - Generate a heatmap  
 - Build/load embeddings  
 - Launch an interactive chat
+
+## Heatmap Output
+![weekly_sentiment_heatmap.png](data%2Fprocessed%2Fweekly_sentiment_heatmap.png)
 
 ## Chat Examples
 ```
