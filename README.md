@@ -36,7 +36,7 @@ ollama pull nomic-embed-text
 ## Embedding Cache (Optional)
 Avoid long embedding computation by downloading a prebuilt cache:
 
-{{URL}}
+https://drive.google.com/file/d/1rdG6ZkxVc4VZpG5DUcMLsRqkUxpUu3qi/view?usp=drive_link
 
 Place it here:
 ```
