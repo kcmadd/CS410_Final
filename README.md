@@ -6,7 +6,7 @@ A full data-processing and question-answering pipeline for stock-related tweets.
 Raw tweet dataset:
 https://www.kaggle.com/datasets/equinxx/stock-tweets-for-sentiment-analysis-and-prediction/data
 
-Place `stock_tweets.csv` into:
+Place `stock_tweets.csv` into (Dataset is already checked into github. This step can be skipped): 
 ```
 data/raw/stock_tweets.csv
 ```
