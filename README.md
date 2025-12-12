@@ -80,7 +80,7 @@ This will:
 - Launch an interactive chat
 
 ## Heatmap Output
-![weekly_sentiment_heatmap.png](data%2Fprocessed%2Fweekly_sentiment_heatmap.png)
+![weekly_sentiment_heatmap.png](data%2Fprocessed%2Fexample_weekly_sentiment_heatmap.png)
 
 ## Chat Examples
 ```
